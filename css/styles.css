@@ -7,7 +7,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-    padding: 24px 156px 24px 156px;
+    padding: 24px 156px;
   }
   .gallery-item {
     list-style: none;
